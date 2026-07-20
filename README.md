@@ -24,3 +24,4 @@ This project is a personal photography gallery site featuring:
 - Clickable email link in Contacts
 
 ## Project Structure
+![Design mockup](design/Photography%20by%20Dylan.png)
